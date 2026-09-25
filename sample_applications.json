@@ -1,0 +1,51 @@
+[
+  {
+    "id": "APP-101",
+    "company": "Google",
+    "role": "Software Engineer",
+    "status": "Interview",
+    "applied_date": "2026-08-15"
+  },
+  {
+    "id": "APP-102",
+    "company": "Microsoft",
+    "role": "Backend Developer",
+    "status": "Applied",
+    "applied_date": "2026-08-20"
+  },
+  {
+    "id": "APP-103",
+    "company": "Amazon",
+    "role": "Cloud Architect",
+    "status": "Rejected",
+    "applied_date": "2026-07-10"
+  },
+  {
+    "id": "APP-104",
+    "company": "Meta",
+    "role": "Frontend Engineer",
+    "status": "Interview",
+    "applied_date": "2026-08-28"
+  },
+  {
+    "id": "APP-105",
+    "company": "Apple",
+    "role": "iOS Developer",
+    "status": "Selected",
+    "applied_date": "2026-06-01"
+  },
+  {
+    "id": "APP-106",
+    "company": "Netflix",
+    "role": "Systems Engineer",
+    "status": "Applied",
+    "applied_date": "2026-09-01"
+  },
+  {
+    "id": "APP-107",
+    "company": "Stripe",
+    "role": "Full Stack Engineer",
+    "status": "Interview",
+    "applied_date": "2026-09-05"
+  }
+]
